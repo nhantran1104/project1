@@ -1,0 +1,14 @@
+C:\Users\hp\LapTrinhWin\Tuan1\bin\Debug\Tuan1.exe.config
+C:\Users\hp\LapTrinhWin\Tuan1\bin\Debug\Tuan1.exe
+C:\Users\hp\LapTrinhWin\Tuan1\bin\Debug\Tuan1.pdb
+C:\Users\hp\LapTrinhWin\Tuan1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\hp\LapTrinhWin\Tuan1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.csproj.AssemblyReference.cache
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.FHocSinh.resources
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.Properties.Resources.resources
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.csproj.GenerateResource.cache
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.csproj.CoreCompileInputs.cache
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.csproj.CopyComplete
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.exe
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.pdb
+C:\Users\hp\LapTrinhWin\Tuan1\obj\Debug\Tuan1.FGiangVien.resources
